@@ -13,8 +13,5 @@
 ## '3D Action' フォルダ
 ゲームのプログラムになります。
 
-## 'The Collector Unity-chan.mp4'
-'The Collector Unity-chan'のプレイ映像です。
-
 ## '操作方法.pdf'
 'The Collector Unity Chan'の操作方法です。
